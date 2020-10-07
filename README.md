@@ -10,8 +10,9 @@
 ```
 
 
-www.samhagman.com
-www.samhagman.art
+🌐 ~ www.samhagman.com
+
+🖼️ ~ www.samhagman.art
 
 <!--
 **samhagman/samhagman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
